@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb://localhost/mernauth",
+    "jwtSecret" : "jwtSecret"
+}
